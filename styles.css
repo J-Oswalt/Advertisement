@@ -1,6 +1,6 @@
 /* General items */
 body {
-    background-image:url("./images/background.jpg");
+    background-image:url(./images/background.jpg);
     background-color: grey;
     background-size: cover;
     height: 100vh;
@@ -67,7 +67,7 @@ h2 {
   /* mobile cards */
   @media screen and (max-width: 600px) {
     body {
-        background-image: url("./images/mobile-back.jpg");
+        background-image: url(./images/mobile-back.jpg);
         background-size: cover;
     }
 
